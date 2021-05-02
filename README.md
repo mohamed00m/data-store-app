@@ -1,0 +1,2 @@
+# data-store-app
+it is a swing application that reads data from MySQL database table it first creates when run for the first time after connection settings configuration from settings menu , the application will save these details of connection on the user computer and when run again no connection settings is needed , it will load the existing connection settings and make a connection and waiting for the user to update or add data so it can update the JTable UI , it also allow the user to print any row of data he selected
